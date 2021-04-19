@@ -1,0 +1,22 @@
+.header {
+    /* text-align: center; */
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 32px;
+    padding-left: 16px;
+    background: #222;
+    height: 36px;
+    /* color: #fff;
+    text-transform: uppercase; */
+}
+.logo{
+    background: #ff7f7f;
+    height: 35px;
+    animation: rotation 8s infinite linear;
+    float: left;
+}
+.btn{
+    float: right;
+    height: 35px;
+}
+
